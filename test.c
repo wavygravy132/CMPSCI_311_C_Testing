@@ -52,7 +52,7 @@ void fork_test()
 
 int main(int argc, char *argv[])
 {
-    printf("hello worldsssssss\n");
+    printf("hello world\n");
 
     //create_serv();
     fork_test();

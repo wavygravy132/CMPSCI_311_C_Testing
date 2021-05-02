@@ -13,5 +13,5 @@ void thread_test()
 
 int main(int argc, char *argv[])
 {
-    printf("sdgdfs");
+    printf("sdg=ss");
 }
